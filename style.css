@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: capitalize;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_1280.jpg);
+}
+
+.card {
+    background-color: rgb(178, 84, 255);
+    padding: 25px;
+    border: solid black 10px;
+    border-radius: 20px;
+    height: auto;
+    width: auto;
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 50%;
+}
